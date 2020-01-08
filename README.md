@@ -1,7 +1,7 @@
 # Twitter_dictionary_based_classification
 Here is the function we talk about in "Semiautomatic dictionary-based classification of tweets about environment"
 
-To create the dictionary can choose betweet 2 ways:
+To create the dictionary you can choose betweet 2 ways:
 - manual (1)
 - automatic (2)
 
