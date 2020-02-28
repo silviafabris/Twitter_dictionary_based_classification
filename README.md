@@ -15,5 +15,5 @@ Gelerally, create similar files to the one we propose here as example. Do not ch
 Now let's think about OSA list. Do you have a list of tweet talking about your topic of interest?
 If no, you can use our proposed list, in case you are interested about environment, otherwise, go on Twitter and find some official account which post about the topic of interest.
 If yes plese call it "tweet_from_OSA"
-Keep in mind! If you need to create your OSA tweet list remember that you need Twitter API!
+Keep in mind! If you need to create your OSA tweet list remember that you need Twitter API!!
 
