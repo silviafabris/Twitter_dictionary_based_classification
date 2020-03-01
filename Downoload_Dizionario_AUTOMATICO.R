@@ -123,7 +123,7 @@ if(lookforOSA == "yes" | lookforOSA == "YES" | lookforOSA == "Yes" ) {
         print(sample(tweet_from_OSA$text, 20))
       }
     }
-    else if (updateourlist != "yes" | updateourlist != "YES" | updateourlist != "Yes") {print("Please load the file OSA_tweets.Rdata")}
+    else if (updateourlist != "yes" | updateourlist != "YES" | updateourlist != "Yes") {print("Please load the file tweet_from_OSA.Rdata")}
   }
   else if (useourlist != "yes" | useourlist != "YES" | useourlist != "Yes") {
     print("Please, use your own list of OSA")
