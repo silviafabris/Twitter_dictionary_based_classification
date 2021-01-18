@@ -14,6 +14,7 @@ library(dplyr)
 library(countrycode)
 library(datasets)
 library(textclean)
+data("stop_words")
 
 # To create the dictionary can choose betweet 2 ways:
 # - manual
